@@ -1,4 +1,4 @@
-.card-container{
+.card-container {
     display: flex;
     flex-direction: column;
     background-color: aqua;
@@ -11,6 +11,6 @@
     transition: transform 0.25s ease-out;
 }
 
-.card-container.hover{
-transform: scale(1.05)
+.card-container:hover {
+    transform: scale(1.05)
 }
