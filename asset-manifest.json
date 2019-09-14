@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monster-rolo/static/css/main.edf05d88.chunk.css",
-    "main.js": "/monster-rolo/static/js/main.ae96ca72.chunk.js",
-    "main.js.map": "/monster-rolo/static/js/main.ae96ca72.chunk.js.map",
-    "runtime~main.js": "/monster-rolo/static/js/runtime~main.52a79260.js",
-    "runtime~main.js.map": "/monster-rolo/static/js/runtime~main.52a79260.js.map",
-    "static/js/2.289b154a.chunk.js": "/monster-rolo/static/js/2.289b154a.chunk.js",
-    "static/js/2.289b154a.chunk.js.map": "/monster-rolo/static/js/2.289b154a.chunk.js.map",
-    "index.html": "/monster-rolo/index.html",
-    "precache-manifest.f5291888c61cb752a4eebb0e670b797c.js": "/monster-rolo/precache-manifest.f5291888c61cb752a4eebb0e670b797c.js",
-    "service-worker.js": "/monster-rolo/service-worker.js",
-    "static/css/main.edf05d88.chunk.css.map": "/monster-rolo/static/css/main.edf05d88.chunk.css.map"
+    "main.css": "/monsters-rolo-react-app/static/css/main.edf05d88.chunk.css",
+    "main.js": "/monsters-rolo-react-app/static/js/main.f7fe81c1.chunk.js",
+    "main.js.map": "/monsters-rolo-react-app/static/js/main.f7fe81c1.chunk.js.map",
+    "runtime~main.js": "/monsters-rolo-react-app/static/js/runtime~main.a4fc2acb.js",
+    "runtime~main.js.map": "/monsters-rolo-react-app/static/js/runtime~main.a4fc2acb.js.map",
+    "static/js/2.289b154a.chunk.js": "/monsters-rolo-react-app/static/js/2.289b154a.chunk.js",
+    "static/js/2.289b154a.chunk.js.map": "/monsters-rolo-react-app/static/js/2.289b154a.chunk.js.map",
+    "index.html": "/monsters-rolo-react-app/index.html",
+    "precache-manifest.9838b8df3d71536a8a5071ab182a6af4.js": "/monsters-rolo-react-app/precache-manifest.9838b8df3d71536a8a5071ab182a6af4.js",
+    "service-worker.js": "/monsters-rolo-react-app/service-worker.js",
+    "static/css/main.edf05d88.chunk.css.map": "/monsters-rolo-react-app/static/css/main.edf05d88.chunk.css.map"
   }
 }
