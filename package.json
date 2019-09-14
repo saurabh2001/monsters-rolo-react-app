@@ -2,7 +2,7 @@
   "name": "monsters-rolo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saurabh2001.github.io/monster-rolo",
+  "homepage": "https://saurabh2001.github.io/monsters-rolo-react-app",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
